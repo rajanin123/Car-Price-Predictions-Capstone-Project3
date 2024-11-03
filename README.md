@@ -1,5 +1,5 @@
-# Car-Price-Predictions-Capstone-Project3
-Predicting Car Prices using Machine Learning Techniques &amp; Streamlit Application
+# Capstone Project-3
+Predicting Car Prices using Machine Learning Techniques and Streamlit Application
 
 Project Summary: This project entails a thorough process of data cleansing, integrating, and analysis, including customer, sales, exchange rate, products, and store data. The workflow is meticulously described in the following step-by-step guide:
 Step 1: Collection of data files (CSV) and prepare to analyse using Python Programme 
